@@ -1,11 +1,9 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuXbHr_9xbFLmns64PRJhy_40hgAV5Md7Tjw&usqp=CAU)]
+ [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuXbHr_9xbFLmns64PRJhy_40hgAV5Md7Tjw&usqp=CAU)]
 <h1 align="center">Hi 👋, I'm Alfred</h1>
 <h3 align="center">A passionate full-Stack developer from Ghana</h3>
 <img align="right" width="400" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfredappiagyei&label=Profile%20views&color=0e75b6&style=flat" alt="alfredappiagyei" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alfredappiagyei" alt="alfredappiagyei" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/alfredappiagyei4" target="blank"><img src="https://img.shields.io/twitter/follow/alfredappiagyei4?logo=twitter&style=for-the-badge" alt="alfredappiagyei4" /></a> </p>
 

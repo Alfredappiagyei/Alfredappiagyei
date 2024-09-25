@@ -1,4 +1,4 @@
- ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuXbHr_9xbFLmns64PRJhy_40hgAV5Md7Tjw&usqp=CAU)
+ ![MasterHead](https://lh6.googleusercontent.com/proxy/DIDZPZxs96bYWtOkLILMWcSr5hBuXlnyYXqBhfqn4o_h_bFu9th9IqB0DvW8O--KwyJ2HBHNmm6j5z50PJDX5Oy9_0WJG7V19ZaUOXr5VNgLHyJCDd5pmQRKrGMXSvM)
 <h1 align="center">Hi 👋, I'm Alfred</h1>
 <h3 align="center">A passionate full-Stack developer from Ghana</h3>
 <img align="right" width="400" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
